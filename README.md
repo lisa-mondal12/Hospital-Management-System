@@ -1,0 +1,2 @@
+# Hospital-Management-System
+The **Hospital Management System (HMS)** is a software project designed to simplify hospital operations by managing patient records, doctor details, appointments, billing, and medicine inventory. It helps improve workflow efficiency and provides a streamlined solution for hospital administration.
